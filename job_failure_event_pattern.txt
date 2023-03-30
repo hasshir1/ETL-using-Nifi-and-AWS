@@ -1,0 +1,7 @@
+{
+  "detail-type": ["Glue Job State Change"],
+  "source": ["aws.glue"],
+  "detail": {
+    "state": ["FAILED"]
+  }
+}
